@@ -1,0 +1,139 @@
+Register and Login
+1. move back btn to main landing page and create component of the card
+2. use react to move between the levels
+3. create popout cards
+4. redsign register landing page
+5. create login page
+6. add mock data
+7. create api folder and use the mock data
+
+Create/edit charcter
+8. create classes
+9. create powerapps
+10. add function to upload image or choose image for charcter
+
+User screen
+Tasks screen
+Create new task screen
+LeaderBoard 
+Figthing Adventures
+
+
+
+
+
+
+
+====
+classes:
+Barbrian = fitness
+Bard = new musician/artist
+Druid = animal caretaker
+Fighter = chores around the house
+Ranger = job searcher
+Wizard = new intelligence/study skill
+
+====
+powerupps and skills:
+
+🪓 Barbarian (Task-Smasher / Physical Routine Hero)
+Focus: Intensity, physical progress, breaking through resistance
+Power-Ups:
+0. Rage – Double XP from completing 1 hard task today
+
+Reckless Attack – Mark 2 tasks to auto-complete if done before 10am
+
+Danger Sense – Highlight overdue tasks in red with sound alert
+
+Feral Instinct – Get a streak bonus if you log in before 9am
+
+Brutal Critical – Bonus XP if task is marked as hard
+
+Persistent Rage – Keep "Rage" buff for 3 days instead of 1
+
+Indomitable Might – Unlock “Mega Quest” feature (bundle 3 tasks into 1 boss)
+
+🎵 Bard (Creative Explorer / Hobbyist)
+Focus: Creativity, variety, daily joy
+Power-Ups:
+0. Bardic Inspiration – Gift XP to another user in your party
+
+Song of Rest – Use “Chill Mode”: 10 min music timer, no alerts
+
+Jack of All Trades – Do 1 task from another class to get bonus XP
+
+Cutting Words – Skip 1 task per day without breaking streak
+
+Countercharm – Block distractions: Hide all non-quest UI for 25 min
+
+Magical Secrets – Borrow a level 5 power from any other class
+
+Legendary Encore – Redo any completed task for bonus XP and gold
+
+🌿 Druid (Wellness / Nature + Health Focus)
+Focus: Routine, balance, rest, sleep, self-care
+Power-Ups:
+0. Wild Shape – Switch between 2 daily modes (Relax / Focus)
+
+Goodberry – Add a wellness break (like water, walk, stretch) to to-do
+
+Barkskin – Enable “Focus Timer” for protected deep work
+
+Flame Blade – Burn away 1 task for bonus gold (1x per day)
+
+Moonbeam – Auto-remind every 3 days for habits
+
+Nature’s Ward – Immunity to failure streak for 1 day
+
+Archdruid – All wellness tasks reward double XP for 24 hours
+
+🛡️ Fighter (Routine Crusher / Consistency Master)
+Focus: Habit-building, speed, grit
+Power-Ups:
+0. Second Wind – Retry a failed task instantly
+
+Action Surge – Do 2 tasks back-to-back for a streak bonus
+
+Battle Mastery – Prioritize 3 tasks as “Daily Duel”: extra XP
+
+Riposte – Reflect a skipped task back on your log with a penalty
+
+Indomitable – Ignore 1 failed streak per week
+
+Extra Attack – Bonus quest unlocked after 5 completions in 1 day
+
+Champion’s Momentum – Add passive XP gain each hour while site is open
+
+🏹 Ranger (Explorer / Life Balance Hunter)
+Focus: Adventure, flexibility, exploration
+Power-Ups:
+0. Favored Terrain – Set your favorite task type = bonus XP
+
+Hunter’s Mark – Tag 1 task per day as “High Value”
+
+Horde Breaker – Complete multiple subtasks at once = bonus
+
+Primeval Awareness – Forecast: See next 3 days of quests
+
+Fleet of Foot – Enable “Speed Mode”: timer + rewards
+
+Hide in Plain Sight – Quiet mode with do-not-disturb hours
+
+Slayer’s Prey – Identify your “Boss Task” of the day for double XP
+
+📚 Wizard (Learning / Course & Study Champion)
+Focus: Study goals, courses, reading, productivity
+Power-Ups:
+0. Fireball – Finish 3+ tasks in a row = explode with XP
+
+Mage Armor – Block distracting tabs for 30 min
+
+Arcane Recovery – Take a break, restore 1 failed task
+
+Counterspell – Undo last accidental task completion
+
+Teleport – Swap two tasks in your list
+
+Scrying – View another player’s board for inspiration
+
+Wish – Auto-complete any 1 task once per week

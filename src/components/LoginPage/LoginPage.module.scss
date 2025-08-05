@@ -1,0 +1,48 @@
+.cardContainer {
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 40px;
+    padding: 40px 80px;
+    width: 60vw;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.cardContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    overflow-x: hidden;
+}
+
+.topBar {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.formContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.buttonContainer {
+    display: flex;
+    gap: 12px;
+}
+
+.backButtonHidden {
+    visibility: hidden
+}
+
+.footerButtonContainer {
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+}

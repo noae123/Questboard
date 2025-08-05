@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 12px;
+    width: auto;
+    white-space: nowrap;
+}
+
+.customAvatar {
+  width: 54px !important;
+  height: 54px !important;
+  background-color: #2A1525 !important;
+  font-size: 2rem;
+  border: 2px solid #C1C3BF;
+}
